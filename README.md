@@ -2,7 +2,7 @@
 <div align="center">
   <!-- 圆形头像（替换为你的头像链接，建议尺寸 200x200） -->
 <img src="https://avatars.githubusercontent.com/stalindev54" alt="StalinDev54的GitHub头像" width="180" height="180" style="border-radius: 80%; border: 3px solid #2563eb; padding: 2px;">
-
+<img src="https://raw.githubusercontent.com/996wuxian/996wuxian/output/github-contribution-grid-snake-dark.svg">
   <!-- 昵称 + 标题 -->
   <h1 style="margin-top: 12px; font-size: 2.2rem; font-weight: 700; color: #1e293b;">
     StalinDev54
