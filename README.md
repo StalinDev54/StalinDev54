@@ -65,7 +65,7 @@
     <a href="mailto:jiclub.site@qq.com" target="_blank" style="text-decoration: none; color: #64748b;">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://me.jiclub,site" target="_blank" style="text-decoration: none; color: #64748b;">
+    <a href="https://me.jiclub.site" target="_blank" style="text-decoration: none; color: #64748b;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MyLifeTracker">
     </a>
     <a href="https://jiclub.site" target="_blank" style="text-decoration: none; color: #64748b;">
