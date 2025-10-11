@@ -1,8 +1,11 @@
 <!--- 顶部个人信息栏：视觉焦点 + 快速定位 -->
 <div align="center">
+
+   <img  src="https://camo.githubusercontent.com/c005487f61478ccb9c4d8f5f85ec859d98a6643e393f5f7e7cd3a00617d7875e/68747470733a2f2f747661342e73696e61696d672e636e2f6c617267652f3030386b315974306c793168346e6f3530306f6276673330666b30626f31636e2e676966">
   <!-- 圆形头像（替换为你的头像链接，建议尺寸 200x200） -->
-<img src="https://avatars.githubusercontent.com/stalindev54" alt="StalinDev54的GitHub头像" width="180" height="180" style="border-radius: 80%; border: 3px solid #2563eb; padding: 2px;">
 <img src="https://raw.githubusercontent.com/996wuxian/996wuxian/output/github-contribution-grid-snake-dark.svg">
+ <img src="https://avatars.githubusercontent.com/stalindev54" alt="StalinDev54的GitHub头像" width="180" height="180" style="border-radius: 80%; border: 3px solid #2563eb; padding: 2px;">
+
   <!-- 昵称 + 标题 -->
   <h1 style="margin-top: 12px; font-size: 2.2rem; font-weight: 700; color: #1e293b;">
     StalinDev54
